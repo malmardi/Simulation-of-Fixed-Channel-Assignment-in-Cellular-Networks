@@ -1,5 +1,5 @@
 # Simulation-of-Fixed-Channel-Assignment-in-Cellular-Networks
-Course project: simulation of the fixed channel assignment using C++
+
 **Description:**
 This project was implemented in the wireless communications course in Fall/2011 at the American University of Sharjah (AUS).
 
